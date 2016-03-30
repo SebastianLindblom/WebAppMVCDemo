@@ -1,0 +1,144 @@
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\ApplicationInsights.config
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\csc.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\vbc.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\WebApp.dll.config
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\WebApp.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\WebApp.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Antlr3.Runtime.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\ClassLibrary.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Data.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\EntityFramework.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.AI.Web.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Newtonsoft.Json.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Service.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Helpers.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Http.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Mvc.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Optimization.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Razor.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.WebPages.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\WebGrease.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Repository.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\ClassLibrary.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Data.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Service.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\EntityFramework.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.AI.Web.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Newtonsoft.Json.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Helpers.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Http.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Mvc.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Optimization.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.Razor.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.WebPages.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Antlr3.Runtime.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Repository.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\obj\Debug\WebApp.dll
+c:\users\sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Database_log.ldf
+C:\Users\Sebastian\documents\visual studio 2015\Projects\WebApp\WebApp\bin\Database.mdf
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\ApplicationInsights.config
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\ClassLibrary.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.AI.Web.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Service.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Helpers.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Repository.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Data.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\ClassLibrary.pdb
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Service.pdb
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.AI.Web.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Helpers.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Optimization.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Repository.pdb
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\bin\Data.pdb
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Sebastian\SkyDrive\Git\WebApp\WebApp\obj\Debug\WebApp.pdb
