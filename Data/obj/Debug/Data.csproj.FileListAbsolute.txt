@@ -1,0 +1,14 @@
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\bin\Debug\Database_log.ldf
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\bin\Debug\Database.mdf
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\bin\Debug\Data.dll.config
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\bin\Debug\Data.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\bin\Debug\Data.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\bin\Debug\ClassLibrary.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\bin\Debug\ClassLibrary.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\obj\Debug\Data.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Data\obj\Debug\Data.pdb

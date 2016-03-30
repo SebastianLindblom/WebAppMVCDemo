@@ -1,0 +1,9 @@
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Sebastian\documents\visual studio 2015\Projects\WindowsFormsApplication\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
