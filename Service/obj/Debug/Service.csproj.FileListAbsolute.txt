@@ -16,3 +16,21 @@ C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication
 C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
 C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Service\obj\Debug\Service.dll
 C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\Service\obj\Debug\Service.pdb
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\Database_log.ldf
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\Database.mdf
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\Service.dll.config
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\Service.dll
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\Service.pdb
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\ClassLibrary.dll
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\Data.dll
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\EntityFramework.dll
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\Repository.dll
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\ClassLibrary.pdb
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\Data.pdb
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\Repository.pdb
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\EntityFramework.xml
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\obj\Debug\Service.dll
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\Service\obj\Debug\Service.pdb

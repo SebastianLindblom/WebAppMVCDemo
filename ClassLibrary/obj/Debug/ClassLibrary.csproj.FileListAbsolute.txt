@@ -7,3 +7,12 @@ C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication
 C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ClassLibrary\obj\Debug\ClassLibrary.dll
 C:\Users\Sebastian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ClassLibrary\obj\Debug\ClassLibrary.pdb
 C:\Users\Sebastian\documents\visual studio 2015\Projects\WindowsFormsApplication\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\seblin\Documents\GitHub\WebAppMVCDemo\ClassLibrary\obj\Debug\ClassLibrary.pdb

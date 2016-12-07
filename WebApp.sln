@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{A180F100-FBB0-4182-8BF3-DEF50B36FEC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "..\WindowsFormsApplication\Repository\Repository.csproj", "{5933F0A4-D667-4CBB-8FF7-52D3AE184759}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{98ED9A62-E1AC-4748-9A64-6DD2DE52BA61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\WindowsFormsApplication\Data\Data.csproj", "{4DBBF4F4-E2A3-4F9C-8D93-FCA1E39584D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{4DBBF4F4-E2A3-4F9C-8D93-FCA1E39584D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "..\WindowsFormsApplication\ClassLibrary\ClassLibrary.csproj", "{98ED9A62-E1AC-4748-9A64-6DD2DE52BA61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{5933F0A4-D667-4CBB-8FF7-52D3AE184759}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "..\WindowsFormsApplication\Service\Service.csproj", "{544C7610-AABE-4617-B175-884D43B3A362}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{544C7610-AABE-4617-B175-884D43B3A362}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,18 +23,18 @@ Global
 		{A180F100-FBB0-4182-8BF3-DEF50B36FEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A180F100-FBB0-4182-8BF3-DEF50B36FEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A180F100-FBB0-4182-8BF3-DEF50B36FEC1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5933F0A4-D667-4CBB-8FF7-52D3AE184759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5933F0A4-D667-4CBB-8FF7-52D3AE184759}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5933F0A4-D667-4CBB-8FF7-52D3AE184759}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5933F0A4-D667-4CBB-8FF7-52D3AE184759}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4DBBF4F4-E2A3-4F9C-8D93-FCA1E39584D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4DBBF4F4-E2A3-4F9C-8D93-FCA1E39584D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4DBBF4F4-E2A3-4F9C-8D93-FCA1E39584D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4DBBF4F4-E2A3-4F9C-8D93-FCA1E39584D8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{98ED9A62-E1AC-4748-9A64-6DD2DE52BA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{98ED9A62-E1AC-4748-9A64-6DD2DE52BA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98ED9A62-E1AC-4748-9A64-6DD2DE52BA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98ED9A62-E1AC-4748-9A64-6DD2DE52BA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DBBF4F4-E2A3-4F9C-8D93-FCA1E39584D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBBF4F4-E2A3-4F9C-8D93-FCA1E39584D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBBF4F4-E2A3-4F9C-8D93-FCA1E39584D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBBF4F4-E2A3-4F9C-8D93-FCA1E39584D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5933F0A4-D667-4CBB-8FF7-52D3AE184759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5933F0A4-D667-4CBB-8FF7-52D3AE184759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5933F0A4-D667-4CBB-8FF7-52D3AE184759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5933F0A4-D667-4CBB-8FF7-52D3AE184759}.Release|Any CPU.Build.0 = Release|Any CPU
 		{544C7610-AABE-4617-B175-884D43B3A362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{544C7610-AABE-4617-B175-884D43B3A362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{544C7610-AABE-4617-B175-884D43B3A362}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -42,26 +42,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 6
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://someusefullname.visualstudio.com/defaultcollection
-		SccProjectUniqueName0 = ..\\WindowsFormsApplication\\ClassLibrary\\ClassLibrary.csproj
-		SccProjectName0 = ../../My\u0020First\u0020Project/WondowsForms/WindowsFormsApplication/ClassLibrary
-		SccLocalPath0 = ..\\WindowsFormsApplication\\ClassLibrary
-		SccProjectUniqueName1 = ..\\WindowsFormsApplication\\Data\\Data.csproj
-		SccProjectName1 = ../../My\u0020First\u0020Project/WondowsForms/WindowsFormsApplication/Data
-		SccLocalPath1 = ..\\WindowsFormsApplication\\Data
-		SccProjectUniqueName2 = ..\\WindowsFormsApplication\\Repository\\Repository.csproj
-		SccProjectName2 = ../../My\u0020First\u0020Project/WondowsForms/WindowsFormsApplication/Repository
-		SccLocalPath2 = ..\\WindowsFormsApplication\\Repository
-		SccProjectUniqueName3 = ..\\WindowsFormsApplication\\Service\\Service.csproj
-		SccProjectName3 = ../../My\u0020First\u0020Project/WondowsForms/WindowsFormsApplication/Service
-		SccLocalPath3 = ..\\WindowsFormsApplication\\Service
-		SccLocalPath4 = .
-		SccProjectUniqueName5 = WebApp\\WebApp.csproj
-		SccProjectName5 = WebApp
-		SccLocalPath5 = WebApp
 	EndGlobalSection
 EndGlobal
